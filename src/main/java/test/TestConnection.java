@@ -29,6 +29,10 @@ public class TestConnection {
     client.start();
 
     Connection connection = client.getConnection();
+    if(connection == null) {
+      System.err.println("No se ha podido conectar con la base de datos.");
+      return;
+    }
 
     // create datastore to handle with sql operations
     Datastore<TestModel> datastore = new SQLDatastore<>(
