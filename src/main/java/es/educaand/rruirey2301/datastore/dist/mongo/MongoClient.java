@@ -1,6 +1,6 @@
-package es.educaand.rruirey2301.clase.dist.mongo;
+package es.educaand.rruirey2301.datastore.dist.mongo;
 
-import es.educaand.rruirey2301.clase.Client;
+import es.educaand.rruirey2301.datastore.Client;
 
 public class MongoClient implements Client {
 

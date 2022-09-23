@@ -1,4 +1,4 @@
-package es.educaand.rruirey2301.clase.dist.sql.client;
+package es.educaand.rruirey2301.datastore.dist.sql.client;
 
 import org.sqlite.SQLiteConfig;
 

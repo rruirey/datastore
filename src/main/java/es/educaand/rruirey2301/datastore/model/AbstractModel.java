@@ -1,4 +1,4 @@
-package es.educaand.rruirey2301.clase.model;
+package es.educaand.rruirey2301.datastore.model;
 
 public abstract class AbstractModel implements Model {
 

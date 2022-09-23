@@ -1,6 +1,6 @@
-package es.educaand.rruirey2301.clase;
+package es.educaand.rruirey2301.datastore;
 
-import es.educaand.rruirey2301.clase.model.Model;
+import es.educaand.rruirey2301.datastore.model.Model;
 
 import java.util.List;
 

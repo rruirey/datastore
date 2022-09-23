@@ -1,9 +1,9 @@
-package es.educaand.rruirey2301.clase.dist.sql;
+package es.educaand.rruirey2301.datastore.dist.sql;
 
-import es.educaand.rruirey2301.clase.model.Model;
-import es.educaand.rruirey2301.clase.Datastore;
-import es.educaand.rruirey2301.clase.model.ModelSerializer;
-import es.educaand.rruirey2301.clase.util.StringUtils;
+import es.educaand.rruirey2301.datastore.model.Model;
+import es.educaand.rruirey2301.datastore.Datastore;
+import es.educaand.rruirey2301.datastore.model.ModelSerializer;
+import es.educaand.rruirey2301.datastore.util.StringUtils;
 
 import java.sql.*;
 import java.util.ArrayList;

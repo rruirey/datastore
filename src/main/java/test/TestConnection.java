@@ -1,9 +1,9 @@
 package test;
 
-import es.educaand.rruirey2301.clase.Client;
-import es.educaand.rruirey2301.clase.Datastore;
-import es.educaand.rruirey2301.clase.dist.sql.SQLDatastore;
-import es.educaand.rruirey2301.clase.dist.sql.client.SQLiteClient;
+import es.educaand.rruirey2301.datastore.Client;
+import es.educaand.rruirey2301.datastore.Datastore;
+import es.educaand.rruirey2301.datastore.dist.sql.SQLDatastore;
+import es.educaand.rruirey2301.datastore.dist.sql.client.SQLiteClient;
 
 import java.sql.Connection;
 import java.sql.SQLException;

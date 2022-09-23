@@ -1,7 +1,7 @@
 package test;
 
-import es.educaand.rruirey2301.clase.Datastore;
-import es.educaand.rruirey2301.clase.model.AbstractModelSerializer;
+import es.educaand.rruirey2301.datastore.Datastore;
+import es.educaand.rruirey2301.datastore.model.AbstractModelSerializer;
 
 import java.util.Map;
 

@@ -1,7 +1,7 @@
-package es.educaand.rruirey2301.clase.dist.mongo;
+package es.educaand.rruirey2301.datastore.dist.mongo;
 
-import es.educaand.rruirey2301.clase.model.Model;
-import es.educaand.rruirey2301.clase.Datastore;
+import es.educaand.rruirey2301.datastore.model.Model;
+import es.educaand.rruirey2301.datastore.Datastore;
 
 import java.util.List;
 

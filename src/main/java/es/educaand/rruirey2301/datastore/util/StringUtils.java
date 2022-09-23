@@ -1,7 +1,6 @@
-package es.educaand.rruirey2301.clase.util;
+package es.educaand.rruirey2301.datastore.util;
 
 import java.util.Collection;
-import java.util.List;
 import java.util.StringJoiner;
 
 public class StringUtils {

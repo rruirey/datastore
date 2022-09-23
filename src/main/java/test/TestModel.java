@@ -1,6 +1,6 @@
 package test;
 
-import es.educaand.rruirey2301.clase.model.AbstractModel;
+import es.educaand.rruirey2301.datastore.model.AbstractModel;
 
 public class TestModel extends AbstractModel {
 

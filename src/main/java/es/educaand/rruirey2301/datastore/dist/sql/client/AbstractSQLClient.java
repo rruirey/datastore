@@ -1,6 +1,6 @@
-package es.educaand.rruirey2301.clase.dist.sql.client;
+package es.educaand.rruirey2301.datastore.dist.sql.client;
 
-import es.educaand.rruirey2301.clase.Client;
+import es.educaand.rruirey2301.datastore.Client;
 
 import java.sql.Connection;
 import java.sql.SQLException;

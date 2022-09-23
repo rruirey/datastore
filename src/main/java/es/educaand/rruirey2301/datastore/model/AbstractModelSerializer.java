@@ -1,6 +1,6 @@
-package es.educaand.rruirey2301.clase.model;
+package es.educaand.rruirey2301.datastore.model;
 
-import es.educaand.rruirey2301.clase.Datastore;
+import es.educaand.rruirey2301.datastore.Datastore;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
