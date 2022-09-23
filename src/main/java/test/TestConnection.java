@@ -7,6 +7,7 @@ import es.educaand.rruirey2301.datastore.dist.sql.client.SQLiteClient;
 
 import java.sql.Connection;
 import java.sql.SQLException;
+import java.util.Collection;
 import java.util.List;
 
 public class TestConnection {
@@ -67,7 +68,7 @@ public class TestConnection {
     }
 
     // list models
-    List<TestModel> models = datastore.findAll();
+    Collection<TestModel> models = datastore.findAll();
     System.out.println("Listing (" + models.size() + ") models:");
     for (TestModel testModel : models) {
       System.out.println("found: " + testModel.getUser());
@@ -75,5 +76,7 @@ public class TestConnection {
 
     // delete model
     datastore.delete("123");
+
+    client.stop();
   }
 }
